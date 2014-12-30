@@ -10,3 +10,5 @@ Getting a hang of it -- just for fun. How does it work?
 Chapter 1 Basics.
 
 Target = Hello World
+
+Commited in the forked project. First issue = lack of descritpions.
